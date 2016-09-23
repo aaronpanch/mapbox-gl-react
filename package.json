@@ -1,0 +1,26 @@
+{
+  "name": "mapbox-gl-react-wrapper",
+  "version": "1.0.0",
+  "description": "A lightweight React wrapper for Mapbox GL JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronpanch/mapbox-gl-react-wrapper.git"
+  },
+  "keywords": [
+    "mapbox",
+    "react",
+    "mapbox-gl",
+    "map",
+    "mapbox-gl-js"
+  ],
+  "author": "Aaron Panchal <aaron@aaronpanchal.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronpanch/mapbox-gl-react-wrapper/issues"
+  },
+  "homepage": "https://github.com/aaronpanch/mapbox-gl-react-wrapper#readme"
+}
